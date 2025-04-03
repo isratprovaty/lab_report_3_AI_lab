@@ -1,3 +1,3 @@
 # lab_report_3_AI_lab
 Given an undirected graph with N vertices and M edges. Now task is to implement a Python program that uses Backtracking to determine whether the graph can be colored using K colors such that no two adjacent vertices share the same color. The input will be read from a file, where the first line contains three integers: N (number of vertices, numbered from 0 to N−1), M (number of edges), and K (number of available colors). Each of the following M lines contains two integers u and v, representing an undirected edge between vertex u and vertex v.
-![image alt](image_url)
+![image alt](https://github.com/isratprovaty/lab_report_3_AI_lab/blob/b497b6866e3a208fddffef8e5b42f81c1e8d6a12/Screenshot%202025-04-03%20202050.png)
